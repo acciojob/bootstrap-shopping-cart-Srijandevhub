@@ -5,7 +5,7 @@
 .heading {
 	color: var(--heading-color);
 }
-.block-heading, .text-center {
+.text-center {
 	text-align: center;
 }
 p.block-heading {
